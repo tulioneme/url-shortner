@@ -1,0 +1,26 @@
+{
+  "name": "frontend_url-shortner",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "Frontend for the url-shortner application",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
